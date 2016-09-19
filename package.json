@@ -1,0 +1,30 @@
+{
+  "name": "noop-factory",
+  "version": "1.0.0",
+  "description": "javascript noop (empty) factory snippet for plugins, libraries ... using MODULE system ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dolphin4ik/noop-factory.git"
+  },
+  "keywords": [
+    "javascript",
+    "noop-factory",
+    "noop",
+    "factory",
+    "plugin",
+    "library",
+    "module",
+    "system",
+    "chunk"
+  ],
+  "author": "@dolphin4ik, denyzhirkov@yandex.ru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dolphin4ik/noop-factory/issues"
+  },
+  "homepage": "https://github.com/dolphin4ik/noop-factory#readme"
+}
