@@ -1,7 +1,7 @@
 {
   "name": "noop-factory",
-  "version": "1.0.0",
-  "description": "javascript noop (empty) factory snippet for plugins, libraries ... using MODULE system ",
+  "version": "1.0.1",
+  "description": "javascript noop (empty) factory snippet for plugins, libraries ... using MODULE system, UMD ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,6 +11,7 @@
     "url": "git+https://github.com/dolphin4ik/noop-factory.git"
   },
   "keywords": [
+    "UMD",
     "javascript",
     "noop-factory",
     "noop",

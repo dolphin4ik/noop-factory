@@ -1,6 +1,6 @@
 # noop-factory
 
-only use its as a small snippet to create your own code, plugins, libraries.. using MODULE system
+only use its as a small snippet to create your own code, plugins, libraries.. using MODULE system, UMD
 
 ```javascript
 
